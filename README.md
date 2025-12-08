@@ -1,11 +1,10 @@
+
 # H&O Company
 
 H&O Company is a modern construction service platform for residential and commercial projects.  
 Built with **React** (frontend) and **PHP/MySQL** (backend), it emphasizes responsive design, clean UI, and seamless user interactions.
 
 👉 [🌐 Live Demo](https://hocompany1.com/)
-
-
 ---
 
 ## 🚀 Technologies
