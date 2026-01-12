@@ -1,8 +1,16 @@
 # H&O Company — Construction Business Platform
 
+![Status](https://img.shields.io/badge/status-production-green)
+![React](https://img.shields.io/badge/react-18.3.1-blue)
+![Node](https://img.shields.io/badge/node-18.x-lightgreen)
+![PHP](https://img.shields.io/badge/php-8.x-purple)
+![Firebase](https://img.shields.io/badge/firebase-12.4.0-yellow)
+![PayPal](https://img.shields.io/badge/PayPal-integration-blue)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 **Production-ready web platform designed to digitalize construction company operations, customer interactions, and internal workflows.**
 
-This project reflects a real-world business application built with scalability, maintainability, and performance in mind — not a demo or tutorial project.
+This project reflects a real-world business application built with **scalability, maintainability, and performance in mind** — not a demo or tutorial project.
 
 👉 **Live Demo:** https://hocompany1.com/
 
