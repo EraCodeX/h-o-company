@@ -82,8 +82,6 @@ The focus is on **real usability, clean UX, and long-term maintainability**, sim
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```text
 api/        → PHP REST API (authentication, business logic, database access)
 public/     → Static assets and application metadata
@@ -98,3 +96,57 @@ src/
  ├─ index.js           → ReactDOM render
  └─ firebase.js        → Firebase configuration & initialization
 screenshots/           → Project screenshots for documentation
+
+
+
+💻 Installation & Setup (Enterprise Standard)
+
+Clone the repository
+
+git clone https://github.com/era123-1/h-o-company.git
+cd h-o-company
+
+
+Install dependencies
+
+npm install
+
+
+Setup environment variables
+
+Create .env file at root:
+
+REACT_APP_FIREBASE_API_KEY=your_api_key
+REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
+REACT_APP_FIREBASE_PROJECT_ID=your_project_id
+REACT_APP_PAYPAL_CLIENT_ID=your_paypal_client_id
+
+
+Run locally
+
+npm start
+
+
+Application will run at http://localhost:3000/
+
+Backend setup
+
+Make sure XAMPP or similar server is running
+
+Import MySQL database (if exists)
+
+Configure api/config.php with DB credentials
+
+✅ Best Practices Followed
+
+Modular, reusable React components
+
+Responsive layout (desktop & mobile)
+
+Secure API endpoints with authentication
+
+Code readability & maintainability
+
+Professional folder structure
+
+Made with 💡 by Era Hidaj — Frontend Developer | 4 years experience | Passionate about production-ready enterprise projects
