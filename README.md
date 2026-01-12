@@ -22,17 +22,20 @@ This project reflects a real-world business application built with **scalability
 
 <table>
   <tr>
-    <td><img src="screenshots/dashboard-overview.png" alt="Dashboard Overview" width="300"/></td>
-    <td><img src="screenshots/job-application-form.png" alt="Job Application Flow" width="300"/></td>
+    <td><img src="screenshots/dashboard-overview.png" alt="Dashboard Overview" width="300" style="border:2px solid #ddd; border-radius:8px;"/></td>
+    <td><img src="screenshots/job-application-form.png" alt="Job Application Flow" width="300" style="border:2px solid #ddd; border-radius:8px;"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/pro-build.png" alt="Admin Panel" width="300"/></td>
-    <img src="screenshots/company-reviews.png" alt="H&O Company Customer Reviews" width="620" style="border:2px solid #ddd; border-radius:8px;"/>
+    <td><img src="screenshots/pro-build.png" alt="Admin Panel" width="300" style="border:2px solid #ddd; border-radius:8px;"/></td>
+    <td><img src="screenshots/payment-flow.png" alt="Payment Flow" width="300" style="border:2px solid #ddd; border-radius:8px;"/></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="screenshots/payment-flow.png" alt="Payment Flow" width="620"/></td>
+    <td colspan="2">
+      <img src="screenshots/ho-company-customer-reviews.png" alt="H&O Company Customer Reviews" width="620" style="border:2px solid #ddd; border-radius:8px;"/>
+    </td>
   </tr>
 </table>
+
 
 
 
