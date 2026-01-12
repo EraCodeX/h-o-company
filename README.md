@@ -97,7 +97,7 @@ src/
  └─ firebase.js        → Firebase configuration & initialization
 screenshots/           → Project screenshots for documentation
 
-
+```
 
 💻 Installation & Setup (Enterprise Standard)
 
