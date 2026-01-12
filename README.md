@@ -82,13 +82,19 @@ The focus is on **real usability, clean UX, and long-term maintainability**, sim
 
 ## 📁 Project Structure
 
-```txt
+## 📁 Project Structure
+
+```text
 api/        → PHP REST API (authentication, business logic, database access)
 public/     → Static assets and application metadata
 src/
- ├─ components/
- ├─ pages/
- ├─ features/
- ├─ hooks/
- ├─ context/
- └─ styles/
+ ├─ components/        → Reusable UI components
+ ├─ pages/             → Application pages (Home, Jobs, Contact, About)
+ ├─ features/          → Core feature modules (Applications, Calendar)
+ ├─ hooks/             → Custom React hooks
+ ├─ context/           → Global state management
+ ├─ styles/            → CSS modules for components and pages
+ ├─ App.js             → Main React app entry
+ ├─ index.js           → ReactDOM render
+ └─ firebase.js        → Firebase configuration & initialization
+screenshots/           → Project screenshots for documentation
