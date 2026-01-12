@@ -27,15 +27,10 @@ This project reflects a real-world business application built with **scalability
   </tr>
   <tr>
     <td><img src="screenshots/pro-build.png" alt="Admin Panel" width="300"/></td>
-    <td><img src="screenshots/calendar-scheduling.png" alt="Scheduling Calendar" width="300"/></td>
+    <img src="screenshots/company-reviews.png" alt="H&O Company Customer Reviews" width="620" style="border:2px solid #ddd; border-radius:8px;"/>
   </tr>
   <tr>
     <td colspan="2"><img src="screenshots/payment-flow.png" alt="Payment Flow" width="620"/></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="screenshots/company-reviews.png" alt="H&O Company Customer Reviews" width="620" style="border:2px solid #ddd; border-radius:8px;"/>
-    </td>
   </tr>
 </table>
 
