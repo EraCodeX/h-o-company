@@ -102,24 +102,27 @@ screenshots/           → Project screenshots for documentation
 ## 💻 Installation & Setup 
 
 ### 1️⃣ Clone Repository
-```bash
+```
 git clone https://github.com/era123-1/h-o-company.git
 cd h-o-company
 
 
 ```
 2️⃣ Install Dependencies
+```
 npm install
-
+```
 3️⃣ Setup Environment Variables
-
+```
 Create a .env file at the project root:
 
-REACT_APP_FIREBASE_API_KEY=your_api_key
-REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
-REACT_APP_FIREBASE_PROJECT_ID=your_project_id
-REACT_APP_PAYPAL_CLIENT_ID=your_paypal_client_id
-
+- REACT_APP_FIREBASE_API_KEY=your_api_key
+- REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
+- REACT_APP_FIREBASE_PROJECT_ID=your_project_id
+- REACT_APP_PAYPAL_CLIENT_ID=your_paypal_client_id
+```
 
 4️⃣ Run Locally
+```
 npm start
+```
