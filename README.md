@@ -12,7 +12,8 @@
 
 This project reflects a real-world business application built with **scalability, maintainability, and performance in mind** — not a demo or tutorial project.
 
-👉 **Live Demo:** https://hocompany1.com/
+🌐 **Live Demo:** [hocompany1.com](https://hocompany1.com/)
+
 
 ---
 
