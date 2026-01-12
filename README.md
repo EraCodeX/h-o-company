@@ -22,19 +22,28 @@ This project reflects a real-world business application built with **scalability
 
 <table>
   <tr>
-    <td><img src="screenshots/dashboard-overview.png" alt="Dashboard Overview" width="300" style="border:2px solid #ddd; border-radius:8px;"/></td>
-    <td><img src="screenshots/job-application-form.png" alt="Job Application Flow" width="300" style="border:2px solid #ddd; border-radius:8px;"/></td>
+    <td>
+      <img src="screenshots/dashboard-overview.png" alt="Dashboard Overview" width="300" style="border:2px solid #ddd; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; display:block; margin:auto;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"/>
+    </td>
+    <td>
+      <img src="screenshots/job-application-form.png" alt="Job Application Flow" width="300" style="border:2px solid #ddd; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; display:block; margin:auto;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="screenshots/pro-build.png" alt="Admin Panel" width="300" style="border:2px solid #ddd; border-radius:8px;"/></td>
-    <td><img src="screenshots/payment-flow.png" alt="Payment Flow" width="300" style="border:2px solid #ddd; border-radius:8px;"/></td>
+    <td>
+      <img src="screenshots/pro-build.png" alt="Admin Panel" width="300" style="border:2px solid #ddd; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; display:block; margin:auto;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"/>
+    </td>
+    <td>
+      <img src="screenshots/payment-flow.png" alt="Payment Flow" width="300" style="border:2px solid #ddd; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; display:block; margin:auto;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"/>
+    </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="screenshots/company-reviews.png" alt="H&O Company Customer Reviews" width="620" style="border:2px solid #ddd; border-radius:8px;"/>
+      <img src="screenshots/company-reviews.png" alt="H&O Company Customer Reviews" width="620" style="border:2px solid #ddd; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1); display:block; margin:auto;"/>
     </td>
   </tr>
 </table>
+
 
 
 
