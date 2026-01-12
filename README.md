@@ -99,22 +99,21 @@ screenshots/           → Project screenshots for documentation
 
 ```
 
-💻 Installation & Setup (Enterprise Standard)
+## 💻 Installation & Setup 
 
-Clone the repository
-
+### 1️⃣ Clone Repository
+```bash
 git clone https://github.com/era123-1/h-o-company.git
 cd h-o-company
 
 
-Install dependencies
-
+```
+2️⃣ Install Dependencies
 npm install
 
+3️⃣ Setup Environment Variables
 
-Setup environment variables
-
-Create .env file at root:
+Create a .env file at the project root:
 
 REACT_APP_FIREBASE_API_KEY=your_api_key
 REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
@@ -122,31 +121,5 @@ REACT_APP_FIREBASE_PROJECT_ID=your_project_id
 REACT_APP_PAYPAL_CLIENT_ID=your_paypal_client_id
 
 
-Run locally
-
+4️⃣ Run Locally
 npm start
-
-
-Application will run at http://localhost:3000/
-
-Backend setup
-
-Make sure XAMPP or similar server is running
-
-Import MySQL database (if exists)
-
-Configure api/config.php with DB credentials
-
-✅ Best Practices Followed
-
-Modular, reusable React components
-
-Responsive layout (desktop & mobile)
-
-Secure API endpoints with authentication
-
-Code readability & maintainability
-
-Professional folder structure
-
-Made with 💡 by Era Hidaj — Frontend Developer | 4 years experience | Passionate about production-ready enterprise projects
