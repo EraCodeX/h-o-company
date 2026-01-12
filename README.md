@@ -34,7 +34,7 @@ This project reflects a real-world business application built with **scalability
   </tr>
   <tr>
     <td colspan="2">
-      <img src="screenshots/ho-company-customer-reviews.png" alt="H&O Company Customer Reviews" width="620" style="border:2px solid #ddd; border-radius:8px;"/>
+      <img src="screenshots/company-reviews.png" alt="H&O Company Customer Reviews" width="620" style="border:2px solid #ddd; border-radius:8px;"/>
     </td>
   </tr>
 </table>
